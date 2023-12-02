@@ -31,7 +31,7 @@ Basic
 
   * - Option
     - Description
-  * - CTRL-Z
+  * - CTRL-SHIFT
     - Undo
   * - CTRL-Y
     - Redo
